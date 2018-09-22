@@ -1,5 +1,5 @@
 
-public class Main {
+public class GraphConstructer {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
